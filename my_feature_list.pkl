@@ -1,0 +1,16 @@
+(lp0
+S'poi'
+p1
+aS'salary'
+p2
+aS'total_payments'
+p3
+aS'exercised_stock_options'
+p4
+aS'expenses'
+p5
+aS'frac_to_poi'
+p6
+aS'frac_from_poi'
+p7
+a.
